@@ -1,1 +1,13 @@
-preguntas...
+Question 1:
+    The Degree 2 polynomial model with L1 regulazation with lambda=17,5 achieved the lowest error
+
+Question 2:
+    our Degree 2 model achieved during training as well as in validation the lowest RMSE so we wuld choose it
+    Although the Degree 3 model achieved statistically insignificantly more error we will choose the degree 2 model as it has a lower computational cost
+    The degree 4 model was omitted early as it was showing signs of overfitting
+
+Question 3: 
+    we would publish the validation data although it performs worse than the training data as these prevents that we show overfitted results
+    RMSE: 5537 Dollars
+    We cannot quantify the uncertainty of this result exactly
+    The amount of data where it was validated (~260) can help to get a sense of the uncertainty
