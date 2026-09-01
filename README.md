@@ -18,7 +18,7 @@ El de mejor generalización se logró con el **Polinomio de Grado 2**.
 
 **Métricas Finales (en el 20% de Test no visto):**
 * **Modelo Lineal Base:** RMSE: 6676.13 | R²: 0.716
-* **🏆 Modelo Ganador (Grado 2 + Lasso alpha=17.5):** RMSE: 5537.92 | R²: 0.804
+* ** Modelo Ganador (Grado 2 + Lasso alpha=17.5):** RMSE: 5537.92 | R²: 0.804
 
 **Conclusión:** Nuestro modelo óptimo explica el **80.4% de la varianza** de los costos y logra reducir el error promedio de predicción en más de **$1,100 dólares** respecto al modelo base. La implementación estricta de *Pipelines* garantizó la ausencia total *data leakage*.
 
