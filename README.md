@@ -2,7 +2,7 @@
 
 Este repositorio contiene los notebooks del Trabajo Práctico 1, enfocado en predecir cargos médicos (`charges`) usando modelos de regresión (Lineal y Polinómica) con Scikit-Learn.
 
-## 📂 Archivos del Proyecto
+##  Archivos del Proyecto
 
 * **`insurance.csv` / `insurance_cleaned.csv`**: Dataset original y versión limpia (sin duplicados y filtrando variables de baja correlación).
 * **`01.Limpieza_de_datos.ipynb`**: Análisis Exploratorio (EDA) y preprocesamiento.
@@ -12,7 +12,7 @@ Este repositorio contiene los notebooks del Trabajo Práctico 1, enfocado en pre
 
 ---
 
-## 🚀 Resultados y Conclusión
+##  Resultados y Conclusión
 
 El de mejor generalización se logró con el **Polinomio de Grado 2**.
 
@@ -24,5 +24,5 @@ El de mejor generalización se logró con el **Polinomio de Grado 2**.
 
 ---
 
-## 🛠️ Librerias
+##  Librerias
 **Python 3** | **Pandas & NumPy** | **Scikit-Learn** | **Matplotlib & Seaborn**
